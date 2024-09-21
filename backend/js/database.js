@@ -4,7 +4,7 @@ try {
   const pool = new Pool({
     user: 'postgres',
     host: 'localhost',
-    database: 'tela_login',
+    database: 'projeto_tela_login',
     password: '5068',
     port: 5432 // porta padrão do PostgreSQL
   });
