@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@prisma/client": "^5.19.1",
     "express": "^4.21.0",
     "pg": "^8.13.0"
   },
@@ -12,5 +13,8 @@
   },
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "prisma": "^5.19.1"
+  }
 }
